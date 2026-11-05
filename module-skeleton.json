@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-product-workspace-nextjs",
+  "capabilityKey": "liberusoftware/module-crm-product-workspace",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-crm-product-workspace-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/crm/nextjs/crm-product-workspace.md",
+  "presentationPlan": "projects/crm/nextjs/crm-product-workspace.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
